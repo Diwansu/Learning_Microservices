@@ -1,0 +1,53 @@
+# OS Metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor / IDE configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.patch
+*.diff
+
+# Dependency Directories
+node_modules/
+jspm_packages/
+.venv/
+venv/
+ENV/
+env/
+.env/
+__pycache__/
+*.pyc
+
+# Local Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.secret
+
+# Logs and Diagnostics
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build and Compilation outputs
+dist/
+dist-ssr/
+build/
+out/
