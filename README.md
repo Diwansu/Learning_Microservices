@@ -6,7 +6,20 @@ It uses a multi-agent AI system to calculate disruption severity, recommend alte
 
 ## Project Preview
 
-![Smart Harbor Live Dashboard](./giphy.mp4)
+### 1. Control Portal (Credentials Setup)
+![Smart Harbor Control Portal](./screenshots/control_portal.png)
+
+### 2. Live Dashboard
+![Smart Harbor Live Dashboard](./screenshots/dashboard.png)
+
+### 3. Disruption Analysis (Researcher Summary)
+![Smart Harbor Disruption Summary](./screenshots/disruption_summary.png)
+
+### 4. Disruption Recommendations & Notifications
+![Smart Harbor Disruption Recommendations](./screenshots/disruption_recommendations.png)
+
+### 5. Logout Confirmation
+![Smart Harbor Logout Confirmation](./screenshots/logout_confirmation.png)
 
 ## Project Structure
 
